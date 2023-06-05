@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Me Before You",
+    "releaseYear": 2016,
+    "director": "Thea Sharrock",
+    "rating": 7.4,
+    "genres": ["Drama", "Romance"]
+  },
+  {
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "releaseYear": 2004,
+    "director": "Alfonso Cuarón",
+    "rating": 7.9,
+    "genres": ["Adventure", "Sci-Fi"]
+  },
+  {
+    "name": "Leave No Trace",
+    "releaseYear": 2018,
+    "director": "Debra Granik",
+    "rating": 7.1,
+    "genres": ["Drama"]
+  },
+  {
+    "name": "The Dark Knight",
+    "releaseYear": 2008,
+    "director": "Christopher Nolan",
+    "rating": 9,
+    "genres": ["Action", "Crime", "Drama"]
+  }
+]
